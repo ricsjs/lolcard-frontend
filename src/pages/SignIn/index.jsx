@@ -12,12 +12,11 @@ export default function SignIn() {
 
                     <div className='opc-login'>
                         <span>entrar com</span>
-                        
                         <div className='icon-login'>
                             <img src={fbicon} height={35}/>
                             <img src={googleicon} height={35}/>
                         </div>
-
+                        <span>ou</span>
                     </div>
 
                 </div>

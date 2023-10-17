@@ -32,6 +32,7 @@
     align-items: center;
     justify-content: center;
     padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .opc-login span {
@@ -39,4 +40,13 @@
     font-style: normal;
     font-weight: 100;
     line-height: normal;
+}
+
+.icon-login {
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+.icon-login img {
+    padding-right: .5em;
 }
