@@ -24,7 +24,8 @@ a {
 /* Defina font-size base e corpo para uma experiência de leitura mais consistente */
 body {
   font-size: 16px;
-  font-family: Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* Opcional: Defina estilos de link padrão */
