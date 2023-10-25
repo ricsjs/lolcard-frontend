@@ -86,3 +86,9 @@
     color: white;
     font-weight: 200;
 }
+
+@media only screen and (max-width: 600px) {
+    .ctn-login {
+      padding: 2em;
+    }
+  }
